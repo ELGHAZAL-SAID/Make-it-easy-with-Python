@@ -13,5 +13,5 @@ place the clipboard.desktop file here:
 lace the clipboardscripts file in :
 /home/yourUserName/.local/share/applications/
 
-and place python file : clipboard.py in where ever you want but dont forget to edti the path incide the files above.
+and place python file : clipboard.py in where ever you want but dont forget to edti the path inside the files above.
 --------------------------------------------------------------------------------------------------------------------
