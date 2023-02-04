@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=mclip.py
+Exec=gnome-terminal -- /home/yourUserName/Desktop/clipboardscript.sh
+Type=Application
+Categories=GTK;GNOME;Utility;
+
